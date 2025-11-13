@@ -12,7 +12,7 @@ export default function SearchInput({
       <Search className="self-center text-gray-500 pr-1" />
       <input
         className="flex-1 outline-none placeholder:text-gray-500"
-        placeholder="Search API"
+        placeholder="Type to search API..."
         value={search}
         onChange={(e) => onChange?.(e.target.value)}
       />
