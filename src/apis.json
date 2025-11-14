@@ -3,5 +3,15 @@
     "name": "useEffectEvent",
     "version": "19.2.0",
     "link": "https://react.dev/reference/react/useEffectEvent"
+  },
+  {
+    "name": "useRef",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useRef"
+  },
+  {
+    "name": "useContext",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useState"
   }
 ]
