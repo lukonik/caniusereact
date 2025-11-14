@@ -13,5 +13,48 @@
     "name": "useContext",
     "version": "16.8.0",
     "link": "https://react.dev/reference/react/useState"
+  },
+  {
+    "name": "useState",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useState"
+  },
+  {
+    "name": "useReducer",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useReducer"
+  },
+  {
+    "name": "useLayoutEffect",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useLayoutEffect"
+  },
+  {
+    "name": "useEffect",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useEffect"
+  },
+  {
+    "name": "useImperativeHandle",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useImperativeHandle"
+  },
+  {
+    "name": "useCallback",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useCallback"
+  },
+  {
+    "name": "useMemo",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useMemo"
+  },
+  {
+    "name": "useDebugValue",
+    "version": "16.8.0",
+    "link": "https://react.dev/reference/react/useDebugValue"
+  },
+  {
+    
   }
 ]
